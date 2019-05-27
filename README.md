@@ -1,6 +1,6 @@
 # Project: Wrangle Open Street Map data
 
-##Project Overview:  
+## Project Overview:  
 The challenge is to choose any area of the world in https://www.openstreetmap.org
  Download the chosen map's OSM XML data,  assess the quality of the data for 
  validity, accuracy, completeness and consistency. Clean the data, 
@@ -19,7 +19,7 @@ small town on western Florida's Gulf coast, that I love. Later you may notice
 there are several other towns included in the data. A part of surrounding 
 cities were included to meet the size requirement of map.
 
-##Data Overview
+## Data Overview
 The uncompressed OSM file size is 72669964 (73M)
 
 The OSM dataset is formed by two different elements: nodes and ways.  
@@ -64,7 +64,7 @@ For example, this way represents a residential street with a 25 mph speed limit.
      </way>  
   ```
    
-##Process Plan
+## Process Plan
 
 >1. Audit the data:   
  identify errors/missing or generally "dirty" data in the original XML file
