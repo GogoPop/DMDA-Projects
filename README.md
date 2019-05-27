@@ -1,4 +1,4 @@
-#Project: Wrangle Open Street Map data
+# Project: Wrangle Open Street Map data
 
 ##Project Overview:  
 The challenge is to choose any area of the world in https://www.openstreetmap.org
