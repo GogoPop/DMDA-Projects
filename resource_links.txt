@@ -1,0 +1,10 @@
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/fa83382c-7342-40a3-aa96-d66f213215d4
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://en.wikipedia.org/wiki/OpenStreetMap
+https://wiki.openstreetmap.org/wiki/Node
+https://wiki.openstreetmap.org/wiki/Way
+https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2
+https://stackoverflow.com/questions/2887878/importing-a-csv-file-into-a-sqlite3-database-table-using-python
+http://databae.io/post/excel-csv-hell/
+
+
